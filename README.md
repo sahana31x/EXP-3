@@ -44,9 +44,11 @@ Direct connection: CIRCUIT DIAGRAM: <img width="888" height="524" alt="image" sr
 Tabulation:1 <img width="595" height="295" alt="image" src="https://github.com/user-attachments/assets/aa9c3f68-dda8-457a-be68-bd943b1da28d" />
 
 	
-Cross connection: CIRCUIT DIAGRAM: <img width="552" height="277" alt="image" src="https://github.com/user-attachments/assets/8237806a-83d5-4fc3-85f3-fc383f67e77c" />
+Cross connection: CIRCUIT DIAGRAM: <img width="863" height="450" alt="image" src="https://github.com/user-attachments/assets/c6ea1189-6b67-498f-82e5-1f45f32c6c75" />
 
-Tabulation:2 <img width="552" height="277" alt="image" src="https://github.com/user-attachments/assets/2dddd3f1-21f8-49cc-95c2-01f64d8cb2ed" />
+
+Tabulation:2 <img width="552" height="277" alt="image" src="https://github.com/user-attachments/assets/039b71a1-4a2d-47db-8c87-410371fe43cf" />
+
 
 
 RESULT:
